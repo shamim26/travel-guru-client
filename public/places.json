@@ -1,0 +1,17 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "placeName": "Cox's Bazar",
+    "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It is known for its long sandy beach, which is the longest natural beach in the world, stretching over 120 km. The town also has a few interesting cultural and historical sites to explore, including Buddhist temples and the Cox's Bazar lighthouse."
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1540018177157-957400dbd08a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "placeName": "Sundarban",
+    "description": "The Sundarbans is a mangrove forest in the delta region of the Ganges, Brahmaputra, and Meghna rivers on the Bay of Bengal. It is a UNESCO World Heritage Site and is known for being home to the Bengal tiger, as well as many other species of plants and animals. Visitors can take boat tours of the forest and spot wildlife, or explore the local villages and learn about the culture and way of life of the people who live there."
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571521808516-41bc8dec68ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "placeName": "Sreemangal",
+    "description": "Sreemangal is a town in northeastern Bangladesh known for its tea gardens and natural beauty. It is often called the 'tea capital' of the country, and visitors can take tours of the tea plantations and factories to learn about the tea-making process. The town is also surrounded by forests and hills, making it a popular spot for hiking and birdwatching."
+  }
+]
